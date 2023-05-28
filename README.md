@@ -4,6 +4,7 @@ This is a minimalistic contact booth app using:
 - Prisma
 - PostgreSQL
 - Tailwind
+- tRPC
 
 There is a lot of things that could be improved and optimized, however, this project's purpose is to demonstrate the possibility.
 
